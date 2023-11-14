@@ -20,9 +20,8 @@ You can find instructions on how to install Nodejs and npm [here](https://docs.n
 On your terminal
 
 ```bash
-git clone https://github.com/Kimkykie/twitter-image-downloader
-cd twitter-image-downloader
 npm install slugify
+
 npm install
 ```
 
