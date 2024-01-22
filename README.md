@@ -20,10 +20,9 @@ You can find instructions on how to install Nodejs and npm [here](https://docs.n
 On your terminal
 
 ```bash
-
-```
 npm install slugify
 npm install
+
 ```
 
 ## Usage
