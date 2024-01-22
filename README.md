@@ -21,7 +21,7 @@ On your terminal
 
 ```bash
 npm install slugify
-
+```
 npm install
 ```
 
