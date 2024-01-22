@@ -51,9 +51,9 @@ The script will start running and create a folder with the `username` you entere
 
  loged
 
-for windows on twitter.js replace  userDataDir: 'C:\\Users\\a\\AppData\\Local\\Chromium\\User Data', to be loged in you can change the code to use other brower or acout,**
 
-Puppeteer is currently set to `headless:false` if you want to see the web crawling process. You can change this to `headless:true` in `twitter.js` if you want it to run in headless mode.
+
+Puppeteer is currently set to `headless:false` if you want to see the web crawling process. You can change this to `headless:true` in `twitter.js` if you want it to run in headless mode. replace  'userDataDir: C:\\Users\\a\\AppData\\Local\\Chromium\\User Data', to be loged in you can change the code to use other brower or acout,
 
 The script will run scrolling through the user timeline until it reaches Twitter maximum number of viewable tweets and once done, a **`Download Complete`** log will be printed in your console or browser automatically closes if your browser is not in headless mode.
 
