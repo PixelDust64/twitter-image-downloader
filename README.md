@@ -20,8 +20,9 @@ You can find instructions on how to install Nodejs and npm [here](https://docs.n
 On your terminal
 
 ```bash
-npm install slugify
+
 ```
+npm install slugify
 npm install
 ```
 
@@ -57,7 +58,7 @@ To view images, open your `images`folder.
 
 ## Disclaimer
 
-This tool is used for educational purposes to see how puppeteer can be utilized for image scraping.
+on twwiter.js replace  userDataDir: 'C:\\Users\\a\\AppData\\Local\\Chromium\\User Data', to be loged in
 
 ## License
 
