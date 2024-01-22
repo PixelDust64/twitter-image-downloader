@@ -50,7 +50,7 @@ Enter the twitter username with or without the @
 
 The script will start running and create a folder with the `username` you entered in the images folder.
 
-**## loged
+ loged
 
 for windows on twitter.js replace  userDataDir: 'C:\\Users\\a\\AppData\\Local\\Chromium\\User Data', to be loged in you can change the code to use other brower or acout,**
 
