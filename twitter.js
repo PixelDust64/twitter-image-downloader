@@ -26,7 +26,8 @@ async function autoScroll(page) {
 async function getTwitterImages(username) {
   const browser = await puppeteer.launch({
     headless: false,
-    args: ["--disable-notifications"],
+    args: ["--disable-notifications", "--no-sandbox"],
+    userDataDir: 'C:\\Users\\a\\AppData\\Local\\Chromium\\User Data', 
   });
   const page = await browser.newPage();
   await page.setViewport({
